@@ -1,4 +1,4 @@
-name: CI
+name: DISPATCH_BUILD
 on: [repository_dispatch]
 jobs:
   build:
