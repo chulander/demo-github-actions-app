@@ -8,10 +8,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <MagicButton>Look at this amazing button</MagicButton>
+        <p>World's most Amazing app</p>
+        <MagicButton>With the world's most Amazing button</MagicButton>
       </header>
     </div>
   );
